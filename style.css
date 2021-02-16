@@ -1,5 +1,5 @@
 body{
-	background-image: url("images/Bg.jpg");
+	background-image: url("Bg.jpg");
 	background-repeat: no-repeat;
 }
 
@@ -93,10 +93,10 @@ body{
 	width: 80%;
 	height: 50px;
 	color: #fff;
-    background: none;
-    border: none;
-    border-bottom: 1px solid rgb(223, 205, 205);
-    outline: none;
+        background: none;
+        border: none;
+        border-bottom: 1px solid rgb(223, 205, 205);
+        outline: none;
  }
 
 [placeholder]:focus::-webkit-input-placeholder {
